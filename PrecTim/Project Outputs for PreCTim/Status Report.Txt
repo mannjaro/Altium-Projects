@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PreCTim.PrjPCB]
+   Generated File[PreCBord.RUL]
+   Generated File[PreCBord.EXTREP]
+   Generated File[PreCBord.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:59:30 On 2018/09/17

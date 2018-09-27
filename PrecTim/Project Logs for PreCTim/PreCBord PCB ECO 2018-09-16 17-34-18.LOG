@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetJ1_5 Pin=R14-1
+Added Component: Designator=K1(SOT230P700X180-4N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K3(SOT230P700X180-4N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K4(SOT230P700X180-4N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R12(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RESC0603(1608)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ4_1 Pin=K1-2
+Added Pin To Net: NetName=GND Pin=K1-3
+Added Pin To Net: NetName=NetJ4_1 Pin=K1-4
+Added Pin To Net: NetName=NetK3_1 Pin=K3-1
+Added Pin To Net: NetName=NetJ4_1 Pin=K3-2
+Added Pin To Net: NetName=GND Pin=K3-3
+Added Pin To Net: NetName=NetJ4_1 Pin=K3-4
+Added Pin To Net: NetName=NetK4_1 Pin=K4-1
+Added Pin To Net: NetName=NetJ2_1 Pin=K4-2
+Added Pin To Net: NetName=GND Pin=K4-3
+Added Pin To Net: NetName=NetJ2_1 Pin=K4-4
+Added Pin To Net: NetName=NetJ1_5 Pin=R12-1
+Added Pin To Net: NetName=NetK1_1 Pin=K1-1
+Added Pin To Net: NetName=NetK1_1 Pin=R12-2
+Added Pin To Net: NetName=NetK1_1 Pin=R14-1
+Added Net: Name=NetK1_1
+Added Member To Class: ClassName=SignalOUT Member=Component K1 STN3NF06L
+Added Member To Class: ClassName=SignalOUT Member=Component K3 STN3NF06L
+Added Member To Class: ClassName=SignalOUT Member=Component K4 STN3NF06L
+Added Member To Class: ClassName=SignalOUT Member=Component R12 RES0603
