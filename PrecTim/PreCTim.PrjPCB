@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CQDOTPKU
 
 [Document3]
-DocumentPath=PreCBord.PcbDoc
+DocumentPath=PreTimBord.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XRBJXMQG
+DocumentUniqueId=THTBQGDM
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PreCTim\PreCBord.EXTREP
