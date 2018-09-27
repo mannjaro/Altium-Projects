@@ -1,0 +1,7 @@
+Added Component: Designator=K2(SOT230P700X180-4N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetK2_1 Pin=K2-1
+Added Pin To Net: NetName=NetJ3_1 Pin=K2-2
+Added Pin To Net: NetName=GND Pin=K2-3
+Added Pin To Net: NetName=NetJ3_1 Pin=K2-4
+Added Member To Class: ClassName=SignalOUT Member=Component K2 STN3NF06L
